@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home4/vedantga/repositories/personal-site
+    - export DEPLOYPATH=/home4/vedantga/public_html/personal-site/
     - /bin/cp -R _pages $DEPLOYPATH
     - /bin/cp -R _posts $DEPLOYPATH
     - /bin/cp -R _publications $DEPLOYPATH
