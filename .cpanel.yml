@@ -1,0 +1,16 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home4/vedantga/repositories/personal-site
+    - /bin/cp -R _pages $DEPLOYPATH
+    - /bin/cp -R _posts $DEPLOYPATH
+    - /bin/cp -R _publications $DEPLOYPATH
+    - /bin/cp -R _talks $DEPLOYPATH
+    - /bin/cp -R _teaching $DEPLOYPATH
+    - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp -R files $DEPLOYPATH
+    - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp *.html $DEPLOYPATH
+    - /bin/cp *.md $DEPLOYPATH
+    - /bin/cp *.json $DEPLOYPATH
+    - /bin/cp *.xml $DEPLOYPATH
