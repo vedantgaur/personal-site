@@ -14,3 +14,4 @@ deployment:
     - /bin/cp *.md $DEPLOYPATH
     - /bin/cp *.json $DEPLOYPATH
     - /bin/cp *.xml $DEPLOYPATH
+    - /bin/cp _config.yml $DEPLOYPATH
