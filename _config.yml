@@ -21,7 +21,7 @@ repository               : "vedantgaur/personal-site"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/progile/profile.png"
+  avatar: "https://raw.githubusercontent.com/vedantgaur/personal-site/main/images/progile/profile.png"
   name             : "Vedant Gaur"
   pronouns         : #"he/him"  
   bio              : "Aspiring engineer and founder with a focus on ML and AI, specifically LLM applications."
