@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "3.0.0"
+ruby "2.7.2"
 
 gem "jekyll", "~> 4.2"
 gem "nokogiri", "~> 1.13"
