@@ -9,7 +9,7 @@ redirect_from:
 
 👋 Hello!
 
-I'm a Sophomore at the University of Pennsylvania, pursuing a dual degree in CS and Business through the [Jerome Fisher Management & Technology (M&T)](https://www.wharton.upenn.edu/undergraduate/academics/m-t-program/) program. 🎓
+I'm a Sophomore at the University of Pennsylvania, pursuing a dual degree in CS and Business through the [Jerome Fisher Management & Technology (M&T)](https://fisher.wharton.upenn.edu/) program. 🎓
 
 This unique program allows me to combine my passion for technology with my interest in entrepreneurship and business strategy.
 Before starting at Penn, I was based in the Bay Area 🌉, where I developed a strong foundation and passion for deep learning and natural language processing. During this time, I actively engaged in various projects that merged my interests in artificial intelligence and practical problem-solving. You can find some of my projects on [my GitHub page](https://github.com/vedantgaur/). 
